@@ -1,0 +1,11 @@
+C:\Users\student\Music\david\CalculationSystem\CalculationSystem\bin\Debug\CalculationSystem.exe.config
+C:\Users\student\Music\david\CalculationSystem\CalculationSystem\bin\Debug\CalculationSystem.exe
+C:\Users\student\Music\david\CalculationSystem\CalculationSystem\bin\Debug\CalculationSystem.pdb
+C:\Users\student\Music\david\CalculationSystem\CalculationSystem\obj\Debug\CalculationSystem.csproj.AssemblyReference.cache
+C:\Users\student\Music\david\CalculationSystem\CalculationSystem\obj\Debug\CalculationSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Music\david\CalculationSystem\CalculationSystem\obj\Debug\CalculationSystem.Form1.resources
+C:\Users\student\Music\david\CalculationSystem\CalculationSystem\obj\Debug\CalculationSystem.Properties.Resources.resources
+C:\Users\student\Music\david\CalculationSystem\CalculationSystem\obj\Debug\CalculationSystem.csproj.GenerateResource.cache
+C:\Users\student\Music\david\CalculationSystem\CalculationSystem\obj\Debug\CalculationSystem.csproj.CoreCompileInputs.cache
+C:\Users\student\Music\david\CalculationSystem\CalculationSystem\obj\Debug\CalculationSystem.exe
+C:\Users\student\Music\david\CalculationSystem\CalculationSystem\obj\Debug\CalculationSystem.pdb
